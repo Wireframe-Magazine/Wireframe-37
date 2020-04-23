@@ -1,0 +1,8 @@
+room_tile = "sprite_00.png"
+south_corridor = "floor_1.png"
+north_corridor = "floor_2.png"
+dirt_tile = "dirt.png"
+enemy_basic = "enemy_00.png"
+enemy_boss = "enemy_01.png"
+chest = "chest.png"
+player_image = "player.png"
